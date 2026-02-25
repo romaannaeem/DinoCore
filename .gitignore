@@ -16,3 +16,6 @@ app.db-wal
 # OS
 .DS_Store
 Thumbs.db
+
+# Config
+*.csproj.user
