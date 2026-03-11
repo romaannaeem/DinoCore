@@ -13,4 +13,8 @@ export const msalConfig: Configuration = {
 
 export const loginRequest = {
     scopes: ["openid", "profile", "email"],
-  };
+};
+
+export const apiRequest = {
+  scopes: ["api://08dbc65f-9d9c-471d-8bf6-5a0395b41da0/Dino.Access"],
+};
